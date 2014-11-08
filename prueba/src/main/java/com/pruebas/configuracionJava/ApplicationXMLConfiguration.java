@@ -1,4 +1,4 @@
-package configuracionXML;
+package com.pruebas.configuracionJava;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

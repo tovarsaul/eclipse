@@ -1,4 +1,4 @@
-package com.pruebas.main.configuracionJava;
+package com.pruebas.configuracionJava;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
