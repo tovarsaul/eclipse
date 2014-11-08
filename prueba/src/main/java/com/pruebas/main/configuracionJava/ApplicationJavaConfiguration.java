@@ -19,6 +19,7 @@ public class ApplicationJavaConfiguration {
 //    	 Beanb beanb  = context.getBean(Beanb.class);
 //    	 beanb.setHola("HolaMundo");
 //     	System.out.println(beanb.getHola());
+    	 //ddddd
      new ApplicationJavaConfiguration().init();
     }
     
