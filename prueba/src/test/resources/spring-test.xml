@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<beans xmlns="http://www.springframework.org/schema/beans"   
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+       xmlns:context="http://www.springframework.org/schema/context"  
+       xsi:schemaLocation="http://www.springframework.org/schema/beans   
+     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd  
+     http://www.springframework.org/schema/context   
+         http://www.springframework.org/schema/context/spring-context-3.0.xsd">  
+       
+     <!-- Activa la búsqueda de anotaciones -->   
+<!-- <import resource="clas"/> -->
+</beans>  
+
+<!-- WEB-XML -->
+<!-- <?xml version="1.0" encoding="UTF-8"?>   -->
+<!-- <web-app xmlns="http://java.sun.com/xml/ns/javaee"   -->
+<!--     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   -->
+<!--     xsi:schemaLocation="http://java.sun.com/xml/ns/javaee    -->
+<!--   http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"   -->
+<!--     version="2.5">   -->
+    
+    
+<!--   <context-param>   -->
+<!--     <param-name>contextClass</param-name>   -->
+<!--     <param-value>   -->
+<!--       org.springframework.web.context.support.AnnotationConfigWebApplicationContext   -->
+<!--     </param-value>   -->
+<!--   </context-param>   -->
+    
+<!--   <context-param>   -->
+<!--     <param-name>contextConfigLocation</param-name>   -->
+<!--     <param-value>com.autentia.tutoriales.config.SpringJavaConfigStyle</param-value>   -->
+<!--   </context-param>   -->
+      
+<!--   <listener>   -->
+<!--     <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>   -->
+<!--   </listener>   -->
+    
+<!-- </web-app>   -->
