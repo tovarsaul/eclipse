@@ -9,7 +9,7 @@ import com.pruebas.pojo.Beanb;
 
 
 @Configuration
-@ComponentScan(basePackages = "com.pruebas.pojo,com.pruebas.main")
+@ComponentScan(basePackages = "com.pruebas.pojo,com.pruebas.configuracionJava")
 public class ApplicationJavaConfiguration {
 	
     private static ApplicationContext context;
