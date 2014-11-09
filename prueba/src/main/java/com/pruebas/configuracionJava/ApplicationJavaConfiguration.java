@@ -13,7 +13,7 @@ import com.pruebas.pojo.Beanb;
 public class ApplicationJavaConfiguration {
 	
     private static ApplicationContext context;
-
+  
 	public static void main( String[] args ) {
     	 context = new AnnotationConfigApplicationContext(ApplicationJavaConfiguration.class);
 //    	 Beanb beanb  = context.getBean(Beanb.class);

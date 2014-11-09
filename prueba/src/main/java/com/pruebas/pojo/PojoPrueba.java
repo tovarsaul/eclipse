@@ -7,9 +7,6 @@ public class PojoPrueba {
 
 	private String hola;
 
-	public PojoPrueba(){
-		System.out.println("constructor");
-	}
 	public String getHola() {
 		return hola;
 	}
